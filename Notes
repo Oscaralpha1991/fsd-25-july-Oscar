@@ -2,3 +2,4 @@ https://phoenixnap.com/kb/install-homebrew-on-mac
 Git clone
 Git Fetch  , git status, git pull (you can skip the first 2 and use git pull directly. Git fetch plus git status is check. Git pull is update)
 Update from pc to github - git push - in case of problem git pull then git push
+Main branche and copy branche
