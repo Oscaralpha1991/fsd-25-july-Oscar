@@ -3,3 +3,6 @@ Git clone
 Git Fetch  , git status, git pull (you can skip the first 2 and use git pull directly. Git fetch plus git status is check. Git pull is update)
 Update from pc to github - git push - in case of problem git pull then git push
 Main branche and copy branche
+Visual code - 
+Visual code clone git repository or, if that doesnt work go to the local main branche folder - cmd - code .
+Add copy branches to visual code - Visual code - source control - pull push - fetch from all remotes
